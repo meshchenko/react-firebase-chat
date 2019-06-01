@@ -1,1 +1,1 @@
-## Online chat with React and Redux
+## Online chat with React and Firebase
