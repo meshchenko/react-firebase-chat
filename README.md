@@ -1,2 +1,1 @@
-# react-firebase-chat
-Online chat based on react and firebase
+## Online chat with React and Redux
