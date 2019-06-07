@@ -1,4 +1,15 @@
 import React from 'react';
+import firebase from 'firebase';
+
+const firebaseConfig = {
+  apiKey: "AIzaSyDRs8yVd2di_JASqAddQ-TBPxph8LfGURc",
+  authDomain: "chat-app-7927b.firebaseapp.com",
+  databaseURL: "https://chat-app-7927b.firebaseio.com",
+  projectId: "chat-app-7927b",
+  storageBucket: "chat-app-7927b.appspot.com",
+  messagingSenderId: "559793717793",
+  appId: "1:559793717793:web:1d1b4e60b7ff8658"
+};
 
 function App() {
   return (
