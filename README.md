@@ -1,4 +1,6 @@
 ## Online chat with React and Firebase
+you can try it: https://chat-app-7927b.web.app
+
 1) $ npm i
 2) $ cd functions/
 3) $ npm i
