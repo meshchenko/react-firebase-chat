@@ -1,5 +1,5 @@
 ## Online chat with React and Firebase
-онлайн-версия: https://chat-app-7927b.web.app
+Линк проекта на firestore: https://chat-app-7927b.web.app
 
 1) $ npm i
 2) $ cd functions/
